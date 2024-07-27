@@ -181,7 +181,7 @@ contract DegenGamingToken is ERC20, Ownable, ERC20Burnable {
 Network Name: Avalanche Fuji C-Chain
 New RPC URL: [https://api.avax-test.network/ext/bc/C/rpc]
 
-ChainID: 43114
+ChainID: 43113
 
 Symbol: AVAX
 
